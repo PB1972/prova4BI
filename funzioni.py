@@ -1,8 +1,8 @@
-# def saluto(nome):
-#     print("Ciao",nome)
+def saluto(nome):
+    print("Ciao",nome)
 
-# n = input("Come ti chiami?")
-# saluto(n)
+n = input("Come ti chiami?")
+saluto(n)
 
 def somma(n1,n2):
     return n1 + n2
